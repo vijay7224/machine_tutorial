@@ -1,1 +1,1 @@
-this is a achine learning wedsite using language python streamlit machine learning 
+this is a machine learning wedsite using language python streamlit machine learning 
